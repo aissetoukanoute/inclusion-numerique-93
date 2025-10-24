@@ -9,7 +9,7 @@ classDiagram
     Acteur: +isMammal()
     Acteur: +mate()
     class Apprenants{
-      +texte Niveau de formation
+      +texte Niveau d'études
       +texte Genre
       +texte Age
       +texte Duree de la formation
